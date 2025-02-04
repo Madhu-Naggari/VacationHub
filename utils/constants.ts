@@ -70,26 +70,6 @@ export const categories = [
     icon: GiForestCamp,
     description: "This property offers camping activities!",
   },
-  {
-    label: "Arctic",
-    icon: BsSnow,
-    description: "This property is in arctic environment!",
-  },
-  {
-    label: "Desert",
-    icon: GiCactus,
-    description: "This property is in the desert!",
-  },
-  {
-    label: "Barns",
-    icon: GiBarn,
-    description: "This property is in a barn!",
-  },
-  {
-    label: "Lux",
-    icon: IoDiamond,
-    description: "This property is brand new and luxurious!",
-  },
 ];
 
 export const LISTINGS_BATCH = 16;
